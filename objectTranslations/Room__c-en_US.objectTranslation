@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Room</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Rooms</value>
+    </caseValues>
+    <fields>
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>Basement</masterLabel>
+            <translation><!-- Basement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bathroom</masterLabel>
+            <translation><!-- Bathroom --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Bedroom</masterLabel>
+            <translation><!-- Bedroom --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Kitchen</masterLabel>
+            <translation><!-- Kitchen --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
