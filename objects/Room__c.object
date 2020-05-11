@@ -174,9 +174,9 @@
                     <label>Bathroom</label>
                 </value>
                 <value>
-                    <fullName>Bedroom</fullName>
+                    <fullName>Bedrooms</fullName>
                     <default>false</default>
-                    <label>Bedroom</label>
+                    <label>Bedrooms</label>
                 </value>
                 <value>
                     <fullName>Basement</fullName>
